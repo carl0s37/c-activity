@@ -1,0 +1,11 @@
+Questão 1-
+Erros:
+- Ausência da '#' antes de include e também dos '<' e '>' no começo e fim de "stdio.h"
+- Ausência do '&' antes de 'numero' na linha 9
+-Ausência das chaves após a função e main e no final do código
+
+Questão 4- 
+a) FOR
+b) Do While
+c) While
+
